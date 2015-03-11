@@ -23,7 +23,7 @@
 	background-color: white;
 	width: 67%;
 	float: left;
-	min-height: 2000px;
+	min-height: 500px;
 	padding-left: 2%;
 	border-left: 1px solid rgb(220,220,220);
 }
@@ -44,7 +44,7 @@
           }
 
 .into-text{
-          font-size:18px;
+          font-size:34px;
           font-weght:bold;
           margin-left:30px;
           }
